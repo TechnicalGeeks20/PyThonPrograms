@@ -1,0 +1,6 @@
+Decription:
+
+Port Scanner is a scanning tool which is used for enumeration by pentetration tester.
+
+
+This is include in information gathering part using which tester improves security of web application.
